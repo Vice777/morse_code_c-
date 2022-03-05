@@ -1,3 +1,2 @@
-# MLH_LHD_day3
-
-Morse code - Encrypt and decrypt a text using c++
+#c++ morse code
+Baic Morse code - Encrypt and decrypt a text using c++
